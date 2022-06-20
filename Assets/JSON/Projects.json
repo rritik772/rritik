@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Becker Decker",
+    "desc": "A website where users can post, like, comment about their food blogging. The users can post their food reciepe for others to know.",
+    "extra_features": [
+      "Chat",
+      "Markdown Support"
+    ],
+    "languages": ["JavaScript", "JSX", "HTML", "CSS"],
+    "database": ["MariaDB", "Persistent Storage"],
+    "framework": ["ReactJS", "Tailwind CSS"],
+    "major_library" : ["MariaDB"],
+    "link": ""
+  },
+  {
+    "name": "MarkME",
+    "desc": "A web application where teacher will generate a QRCode and students can scan and give their attendance from it. Simple but effective web application.",
+    "extra_features": [ ],
+    "languages": ["JavaScript", "JSX", "HTML", "CSS"],
+    "database": ["MariaDB", "Persistent Storage"],
+    "framework": ["ReactJS"],
+    "major_library": ["Firebase"],
+    "link": "https://mark-me.vercel.app/"
+  },
+  {
+    "name": "Text Predictor",
+    "desc": "Machine learning project which predicts next word using current word. The model is modal is made from scratch using Markov Chaning rule.",
+    "extra_features": [],
+    "languages": ["Python"],
+    "database": "None",
+    "framework": [""],
+    "major_library": ["NLTK"],
+    "link": ""
+  },
+  {
+    "name": "Authentication Server",
+    "desc": "A simple authentication server using JWT token.",
+    "extra_features": [],
+    "languages": ["GoLang", "Docker"],
+    "database": ["MariaDB"],
+    "framework": ["JWT"],
+    "major_library": [],
+    "link": ""
+  },
+  {
+    "name": "ManageArk Mobile App",
+    "desc": "A fully fetured mobile application where students have to make attendance first before going to the mess.",
+    "extra_features": [
+      "Mess Anoncements",
+      "Mess Menu",
+      "Bug Report"
+    ],
+    "languages": ["Dart"],
+    "framework": ["flutter"],
+    "database": ["Firebase"],
+    "major_library": [],
+    "link": "https://play.google.com/store/apps/details?id=com.manageark.manageark"
+  },
+  {
+    "name": "ManageArk Web App",
+    "desc": "A front end for the mobile ManageArk app for the mess admins.",
+    "extra_features": [
+      "Add Menu",
+      "See attending students"
+    ],
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "framework": ["NextJS"],
+    "database": ["Firebase"],
+    "major_library": [],
+    "link": "https://manageark-web.vercel.app/loginpage"
+  },
+  {
+    "name": "",
+    "desc": "A front end for the mobile ManageArk app for the mess admins.",
+    "extra_features": [
+      "Add Menu",
+      "See attending students"
+    ],
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "framework": ["NextJS"],
+    "database": ["Firebase"],
+    "major_library": [],
+    "link": "https://manageark-web.vercel.app/loginpage"
+  }
+]
